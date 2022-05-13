@@ -2,6 +2,7 @@
 #include <math.h>
 using namespace std;
 int a;
+int b;
 int main()
 {
 	int n ;
