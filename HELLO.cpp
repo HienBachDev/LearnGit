@@ -5,6 +5,7 @@ int a;
 int b;
 int main()
 {
+	cout>> "hello";
 	int n ;
 	cin >> n;
 	for (int i = int(sqrt(n)); i > 0 ;i--)
