@@ -4,6 +4,7 @@ using namespace std;
 int a;
 int main()
 {
+	cout << i <<"hello world  " << n/i <<endl; 
 	int n ;
 	cin >> n;
 	for (int i = int(sqrt(n)); i > 0 ;i--)
@@ -11,6 +12,7 @@ int main()
 		if (n%i ==0 )
 		{	
 		cout << i <<" " << n/i <<endl; 
+			
 	    break;
 		}
 	}
