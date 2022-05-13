@@ -1,0 +1,20 @@
+git intit
+git config --global user.name 'HienBachDev'
+git config --global user.gmail 'dinhhienbach@gmail.com'
+git status: xem trang thai file 
+- Lien ket local voi server
+git remote add origin https://github.com/HienBachDev/LearnGit
+git add .
+git commit -m"lan1"
+git push -u origin master: dua data len
+
+- Cap nhat data (thay doi) tu may ve
+git pull
+
+- Lay nguyen project ve local
+git
+
+- Xoa file tu local va update lai tren server
+git add .
+git commit -m'lan2'
+git push
