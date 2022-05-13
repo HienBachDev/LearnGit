@@ -5,6 +5,7 @@ int a;
 int b;
 int main()
 {
+	cout<<"viet";
 	cout<<"khanh dep trai";
 	cout << "hello world" ;
 	int n ;
